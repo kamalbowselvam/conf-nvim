@@ -1,1 +1,1 @@
-# mynvim
+# Personal Configuration of Neo Vim
